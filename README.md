@@ -1,15 +1,15 @@
 ## Olá! bem vindo ao meu perfil do GitHub! 😁😎🪐
 
-🚀 Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
+🚀 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, com experiência em trabalho em equipe multiregional e multinacional. 
+Atuei como administrador Jira em um projeto internacional no setor de dispositivos móveis, onde aprimorei minhas habilidades em Java para Web com Spring, JavaScript, HTML e CSS. 
+Contribuí significativamente para a manutenção e desenvolvimento de novas funcionalidades em plataformas customizadas da Atlassian.
 
-Tenho experiência de trabalho em equipe multiregional e multinacional. Como administrador Jira em um projeto de cliente internacional do setor de dispositivos móveis, aprimorei minhas habilidades em Java para Web com Spring, JavaScript, HTML e CSS, contribuindo para a manutenção e criação de novas funcionalidades para plataformas customizadas da Atlassian.
+Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e domínio de diferentes tecnologias. Estou sempre em busca de desafios e oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores.
 
-Aqui no GitHub, trago projetos diversos utilizando diferentes tecnologias, projetos estes que desenvolvidos como resultados do meu estudos na área.
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,prisma,php,docker,html,css,python,c,cs,arduino,flask,raspberrypi,dotnet,visualstudio,vscode,firebase,git,github,java,mysql,react,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,python,c,cs,react,angular,visualstudio,vscode,firebase,mongodb,mysql,git,github)](https://skillicons.dev)
  
 <div>
-<a href="https://github.com/MarcosMaga">
+<a href="https://github.com/LucasEPaduam">
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api/top-langs/?username=LucasEPaduam&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api?username=LucasEPaduam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
