@@ -1,12 +1,12 @@
-## Olá! bem vindo ao meu perfil do GitHub! 😁😎🪐
+## Olá! bem vindo ao meu perfil do GitHub! 🧑‍🦲👍
 
-🚀 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, com experiência em trabalho em equipe multiregional e multinacional. 
+💾 Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, com experiência em trabalho em equipe multiregional e multinacional. 
 Atuei como administrador Jira em um projeto internacional no setor de dispositivos móveis, onde aprimorei minhas habilidades em Java para Web com Spring, JavaScript, HTML e CSS. 
 Contribuí significativamente para a manutenção e desenvolvimento de novas funcionalidades em plataformas customizadas da Atlassian.
 
 Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e domínio de diferentes tecnologias. Estou sempre em busca de desafios e oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores.
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,python,c,cs,react,angular,visualstudio,vscode,firebase,mongodb,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,python,c,cs,ts,spring,react,angular,jquery,androidstudio,visualstudio,vscode,godot,firebase,mongodb,mysql,npm,postman,git,github)](https://skillicons.dev)
  
 <div>
 <a href="https://github.com/LucasEPaduam">
