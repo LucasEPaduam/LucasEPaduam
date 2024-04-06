@@ -13,10 +13,10 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api/top-langs/?username=LucasEPaduam&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats-eight-lac.vercel.app/api?username=LucasEPaduam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 Acesse meu portfólio: https://lucasepaduam.github.io/MeuPortifolio/
 
-Para conhecer mais do meu perfil profissional acesse meu Linked[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-paduam/)
+Para conhecer mais do meu perfil profissional acesse meu Linkedin: https://www.linkedin.com/in/lucas-paduam/
 
 Sinta-se à vontade para me contactar.
 
