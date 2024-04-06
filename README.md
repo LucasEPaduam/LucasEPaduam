@@ -16,7 +16,7 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
 
 Acesse meu portfólio: https://lucasepaduam.github.io/MeuPortifolio/
 
-Para conhecer mais do meu perfil profissional acesse meu Linkedin: https://www.linkedin.com/in/lucas-paduam/
+Para conhecer mais do meu perfil profissional acesse meu Linked[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-paduam/)
 
 Sinta-se à vontade para me contactar.
 
