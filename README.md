@@ -9,7 +9,6 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,sass,python,c,cs,ts,spring,react,angular,jquery,androidstudio,visualstudio,vscode,godot,firebase,mongodb,mysql,heroku,npm,yarn,postman,vim,git,github,githubactions)](https://skillicons.dev)
  
 <div>
-<a href="https://github.com/LucasEPaduam">
 <img height="200em" src="https://github-readme-stats-eight-lac.vercel.app/api/top-langs/?username=LucasEPaduam&layout=compact&langs_count=10&theme=merko"/>
 <img height="200em" src="https://github-readme-stats-eight-lac.vercel.app/api?username=LucasEPaduam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
