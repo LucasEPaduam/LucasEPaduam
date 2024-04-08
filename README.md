@@ -6,7 +6,7 @@ Contribuí significativamente para a manutenção e desenvolvimento de novas fun
 
 Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e domínio de diferentes tecnologias. Estou sempre em busca de desafios e oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores.
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,python,c,cs,ts,spring,react,angular,jquery,androidstudio,visualstudio,vscode,godot,firebase,mongodb,mysql,npm,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,expressjs,html,css,sass,python,c,cs,ts,spring,react,angular,jquery,androidstudio,visualstudio,vscode,godot,firebase,mongodb,mysql,heroku,npm,yarn,postman,vim,git,github,githubactions)](https://skillicons.dev)
  
 <div>
 <a href="https://github.com/LucasEPaduam">
