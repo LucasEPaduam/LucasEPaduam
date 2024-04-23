@@ -17,7 +17,7 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
 <div>
  <p>Para conhecer mais do meu perfil profissional:</p>
  <a href="https://www.linkedin.com/in/lucas-paduam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://lucasepaduam.github.io/MeuPortifolio/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
+ <a href="https://lucasepaduam.github.io/MeuPortifolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
