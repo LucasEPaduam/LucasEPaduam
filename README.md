@@ -13,10 +13,13 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
 <img height="200em" src="https://github-readme-stats-eight-lac.vercel.app/api?username=LucasEPaduam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 </br>
- 
-Acesse meu [portfolio!!!](https://lucasepaduam.github.io/MeuPortifolio/)
 
-Para conhecer mais do meu perfil profissional acesse meu [LinkedIn.](https://www.linkedin.com/in/lucas-paduam/)
+<div>
+ <p>Para conhecer mais do meu perfil profissional:</p>
+ <a href="https://www.linkedin.com/in/lucas-paduam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://lucasepaduam.github.io/MeuPortifolio/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"/></a>
+</div>
+<br>
 
 Sinta-se à vontade para me contactar.
 
