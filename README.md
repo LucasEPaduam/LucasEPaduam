@@ -10,7 +10,6 @@ Aqui no GitHub, apresento projetos diversificados que refletem meus estudos e do
  
 <div>
 <img height="200em" src="https://github-readme-stats-lucaspads-projects.vercel.app/api/top-langs/?username=LucasEPaduam&layout=compact&langs_count=10&theme=merko"/>
-<img height="200em" src="https://github-readme-stats-lucaspads-projects.vercel.app/api?username=LucasEPaduam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 </br>
 
